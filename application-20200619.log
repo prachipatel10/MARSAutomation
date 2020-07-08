@@ -1,0 +1,24 @@
+2020-06-19 13:33:20.774 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-19 13:33:30.520 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-19 13:34:12.347 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-19 13:34:18.756 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-19 13:34:19.124 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-19 13:34:19.308 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-19 13:35:07.539 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-19 13:35:17.324 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-19 13:35:34.969 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-19 13:35:50.042 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-19 13:36:23.749 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-19 13:36:30.224 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-19 13:36:30.913 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-19 13:36:31.091 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-19 13:36:55.164 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-19 13:37:40.567 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-19 13:37:56.873 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-19 13:40:12.588 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-19 13:40:23.141 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-19 13:40:30.532 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-19 13:40:31.130 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-19 13:40:31.458 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-19 13:41:08.539 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-06-19 13:41:51.724 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed

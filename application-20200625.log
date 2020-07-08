@@ -1,0 +1,40 @@
+2020-06-25 13:49:51.309 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 13:50:02.318 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 13:51:41.062 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-25 13:51:46.756 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-25 13:51:47.102 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-25 13:51:47.414 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-25 13:53:28.683 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 13:53:52.349 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 13:54:16.658 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-25 13:54:22.339 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-25 13:54:22.558 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-25 13:54:22.683 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-25 14:05:45.807 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 14:06:04.271 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 14:06:19.418 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-06-25 14:06:46.239 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-06-25 14:06:56.251 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-06-25 14:08:31.709 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 14:08:45.404 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 14:09:15.014 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-25 14:09:21.017 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-25 14:09:22.324 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-25 14:09:22.485 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-25 14:13:51.385 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 14:14:16.420 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 14:14:32.495 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-25 14:14:38.360 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-25 14:14:38.913 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-25 14:14:39.223 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-25 14:19:48.547 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 14:20:04.174 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 14:20:35.114 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-25 14:20:41.072 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-25 14:20:41.780 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-25 14:20:41.979 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-25 14:22:26.990 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-25 14:22:38.294 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-25 14:22:54.732 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-06-25 14:23:09.777 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-06-25 14:23:19.843 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button

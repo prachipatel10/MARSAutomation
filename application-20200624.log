@@ -1,0 +1,83 @@
+2020-06-24 14:20:36.032 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:20:45.663 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:21:22.920 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:21:29.519 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:21:29.911 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:21:30.345 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 14:21:36.084 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-24 14:23:24.834 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:23:36.125 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:23:55.093 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:24:01.064 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:24:01.335 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:24:01.498 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 14:24:43.579 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-24 14:25:58.926 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:26:12.307 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:26:45.429 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:26:51.338 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:26:51.738 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:26:51.977 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 14:27:32.457 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-24 14:34:47.624 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:35:06.751 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:35:21.995 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:35:27.919 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:35:28.211 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:35:28.439 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 14:36:09.824 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-24 14:36:30.486 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:36:47.386 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:36:59.539 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:37:05.239 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:37:05.495 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:37:05.636 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 14:37:46.942 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-06-24 14:39:14.899 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 14:39:35.683 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 14:39:56.888 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 14:40:02.894 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 14:40:03.157 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 14:40:03.308 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 15:22:02.668 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 15:22:13.159 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 15:22:37.445 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 15:22:43.507 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 15:22:43.734 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 15:22:43.856 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 15:40:07.830 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 15:40:36.241 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 15:41:17.545 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 15:41:23.310 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 15:41:23.708 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 15:41:23.869 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 15:46:01.122 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 15:46:17.982 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 15:46:33.764 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 15:46:39.482 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 15:46:39.801 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 15:46:39.929 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 15:50:31.508 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 15:50:42.258 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 15:51:16.586 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 15:51:22.458 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 15:51:22.959 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 15:51:23.145 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 15:53:05.706 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 15:53:33.781 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 15:53:42.851 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 15:53:48.616 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 15:53:48.870 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 15:53:49.050 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 16:17:57.218 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 16:18:33.832 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 16:18:54.721 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 16:19:01.175 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 16:19:01.620 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 16:19:02.180 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-24 16:40:59.937 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-24 16:41:45.674 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-24 16:42:01.707 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-24 16:42:08.023 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-24 16:42:08.464 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-24 16:42:08.649 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button

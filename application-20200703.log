@@ -1,0 +1,140 @@
+2020-07-03 11:52:02.456 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 11:52:19.694 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 11:52:43.707 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 11:52:51.155 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 11:52:51.383 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 11:52:51.822 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 11:53:39.291 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-07-03 11:57:17.149 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 11:57:37.223 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 11:57:51.111 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 11:57:56.904 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 11:57:57.150 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 11:57:57.309 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 11:58:22.499 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-07-03 11:59:24.483 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 11:59:32.682 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 11:59:58.267 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 12:00:04.117 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 12:00:04.336 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 12:00:04.469 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 12:00:26.638 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-07-03 12:05:48.181 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 12:05:59.625 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 12:06:27.025 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 12:06:32.947 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 12:06:33.241 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 12:06:33.481 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 12:08:26.075 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-07-03 13:11:44.113 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 13:12:25.664 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 13:12:36.794 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 13:12:44.100 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 13:12:45.227 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 13:12:45.725 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 13:13:19.421 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser closed
+2020-07-03 14:28:35.612 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 14:28:55.546 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 14:29:35.025 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 14:29:45.413 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 14:29:46.658 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 14:29:54.157 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 14:32:45.318 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-07-03 14:33:07.026 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-07-03 14:33:26.091 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-07-03 14:33:32.280 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-07-03 14:33:32.901 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-07-03 14:33:33.254 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-07-03 19:15:11.923 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:15:11.946 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:15:16.969 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:15:21.976 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:15:21.981 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:15:27.218 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:15:27.221 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:15:32.224 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:15:37.228 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:15:37.231 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:15:45.233 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:15:45.237 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:15:48.296 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:15:48.298 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:15:53.302 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:15:58.305 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:15:58.308 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:16:06.310 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:16:06.312 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:16:09.472 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:16:09.498 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:16:14.508 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:16:19.511 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:16:19.512 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:16:27.515 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:16:27.551 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:16:27.553 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:16:32.561 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:16:37.564 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:16:37.566 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:16:45.568 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:17:01.640 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:17:01.676 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:17:06.696 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:17:11.701 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:17:11.705 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:17:16.951 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:17:16.953 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:17:22.018 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:17:27.073 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:17:27.076 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:17:35.087 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:17:35.089 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:17:38.276 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:17:38.278 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:17:43.282 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:17:49.631 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:17:49.633 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:17:57.703 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:17:58.128 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:18:03.581 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:18:03.583 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:18:08.600 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:18:13.603 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:18:13.604 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:18:21.609 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:18:21.632 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:18:21.634 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:18:26.638 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:18:31.642 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:18:31.643 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:18:39.645 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:20:16.230 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:20:16.256 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:20:21.279 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:20:26.287 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:20:26.301 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:20:31.574 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:20:31.577 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:20:36.621 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:20:41.623 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:20:41.625 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:20:49.628 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:20:49.630 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:20:52.714 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:20:52.717 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:20:57.726 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:21:02.729 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to enter credentials
+2020-07-03 19:21:02.731 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:21:10.738 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:21:10.768 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User is not able to click Perfleek icon
+2020-07-03 19:21:14.123 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:21:14.125 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:21:19.132 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:21:24.140 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:21:24.142 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:21:32.143 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-07-03 19:21:32.184 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Browser opening Failed
+2020-07-03 19:21:32.187 [main] ERROR StepDefinition.StepdefinitionCommonSteps - URL Entering Failed
+2020-07-03 19:21:37.341 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:21:42.344 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-07-03 19:21:42.346 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-07-03 19:21:50.347 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect

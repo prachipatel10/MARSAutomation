@@ -1,0 +1,326 @@
+2020-06-23 11:50:11.549 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 11:50:33.599 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 11:51:17.449 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 11:51:25.942 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 11:51:26.297 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 11:51:26.500 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 11:51:43.334 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 11:51:43.632 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 11:51:46.954 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 11:51:52.287 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 11:51:56.504 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 11:51:57.852 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 11:52:02.389 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 11:52:11.568 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 11:52:16.984 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 11:52:17.130 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 11:52:19.529 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 11:52:28.870 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 11:52:50.882 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 11:52:52.895 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 11:53:03.346 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 11:53:03.559 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 11:53:13.709 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 11:53:14.273 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 11:53:14.503 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 11:53:14.671 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 11:53:14.853 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:00:53.772 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:01:15.256 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:01:28.705 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:01:34.364 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:01:34.598 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:01:34.755 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:01:47.870 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:01:48.280 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:01:51.448 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:01:56.170 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:02:00.373 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:02:01.861 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:02:06.343 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:02:11.167 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:02:17.074 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:02:17.852 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:02:20.646 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:02:34.756 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:02:49.760 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:02:51.763 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:02:54.971 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:02:55.134 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:03:05.508 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:03:05.858 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:03:06.080 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:03:06.231 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:03:06.418 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:17:27.426 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:17:37.642 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:18:00.508 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:18:07.373 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:18:07.791 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:18:08.101 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:18:29.427 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:18:30.009 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:18:33.240 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:18:38.304 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:18:42.443 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:18:45.021 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:18:52.896 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:19:04.587 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:19:12.119 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:19:12.274 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:19:14.859 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:19:26.444 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:19:41.449 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:19:43.453 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:19:46.756 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:19:47.037 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:19:57.383 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:19:57.911 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:19:58.151 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:19:58.411 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:19:58.690 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:23:17.137 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:23:27.575 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:23:47.588 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:23:53.188 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:23:53.423 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:23:53.636 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:24:10.035 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:24:10.424 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:24:13.674 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:24:18.462 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:24:22.565 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:24:24.418 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:24:28.810 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:24:38.425 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:24:45.338 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:24:45.647 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:24:48.754 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:24:57.797 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:25:12.802 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:25:14.807 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:25:18.083 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:25:18.353 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:25:28.476 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:25:28.880 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:25:29.030 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:25:29.183 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:25:29.292 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:27:23.586 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:27:49.257 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:28:03.240 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:28:09.353 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:28:09.595 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:28:09.771 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:28:28.949 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:28:29.459 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:28:32.676 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:28:40.167 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:28:44.262 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:28:44.869 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:28:48.467 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:29:02.132 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:29:07.245 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:29:07.392 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:29:09.812 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:29:27.149 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:29:42.156 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:29:44.163 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:29:47.479 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:29:47.734 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:29:58.371 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:29:58.793 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:29:58.999 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:29:59.175 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:29:59.320 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:31:41.998 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:31:53.895 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:32:30.041 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:32:36.283 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:32:36.573 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:32:36.777 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:32:47.310 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:32:47.644 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:32:50.895 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:32:55.427 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:32:59.532 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:33:00.118 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:33:05.672 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:33:19.369 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:33:24.521 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:33:24.642 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:33:26.929 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:33:35.433 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:33:50.439 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:33:52.443 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:33:55.673 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:33:55.874 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:34:06.003 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:34:06.538 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:34:06.677 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:34:06.989 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:34:07.140 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:47:44.285 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:47:58.440 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:48:10.004 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:48:15.711 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:48:16.084 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:48:16.214 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:48:35.407 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:48:35.690 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:48:38.874 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:48:44.107 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:48:48.240 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:48:49.964 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:48:57.515 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:49:11.336 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:49:16.969 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:49:17.325 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:49:24.279 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:49:40.641 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:49:55.643 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:49:57.648 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:50:00.947 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:50:01.186 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:50:14.867 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:50:15.256 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:50:15.482 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:50:15.653 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:50:16.264 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 12:51:53.898 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 12:52:07.166 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 12:52:46.223 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 12:52:52.221 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 12:52:52.611 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 12:52:52.821 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 12:53:12.509 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 12:53:13.071 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 12:53:16.261 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 12:53:21.347 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 12:53:25.437 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 12:53:26.201 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 12:53:29.889 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 12:53:41.093 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 12:53:46.465 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 12:53:46.597 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 12:53:51.505 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 12:54:00.438 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 12:54:15.445 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 12:54:21.125 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 12:54:24.828 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 12:54:24.976 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 12:54:54.585 [main] ERROR StepDefinition.StepdefinitionCommonSteps - User failed to enter street address
+2020-06-23 12:54:54.874 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 12:54:56.669 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 12:54:56.816 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 12:55:01.909 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 13:03:31.393 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 13:03:41.268 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 13:04:11.253 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 13:04:17.130 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 13:04:17.395 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 13:04:17.549 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 13:04:33.054 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 13:04:33.411 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 13:04:36.618 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 13:04:42.620 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 13:04:46.735 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 13:04:49.405 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 13:04:53.744 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 13:05:06.092 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 13:05:12.348 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 13:05:12.556 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 13:05:15.469 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 13:05:30.801 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 13:05:45.807 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 13:05:47.811 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 13:05:51.053 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 13:05:51.246 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 13:05:56.251 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered street address
+2020-06-23 13:05:56.701 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 13:05:56.830 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 13:05:56.980 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 13:05:57.143 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 13:13:04.442 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 13:13:17.894 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 13:13:48.140 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 13:13:53.775 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 13:13:54.159 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 13:13:54.439 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 13:14:03.980 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 13:14:04.269 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 13:14:07.451 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 13:14:12.327 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 13:14:16.421 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 13:14:17.393 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 13:14:21.192 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 13:14:33.813 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 13:14:46.475 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 13:14:46.574 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 13:14:50.756 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 13:15:12.805 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 13:15:27.809 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 13:15:29.815 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 13:15:33.062 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 13:15:33.257 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 13:15:38.262 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered street address
+2020-06-23 13:15:38.744 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 13:15:38.880 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 13:15:39.047 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 13:15:39.179 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 13:32:52.040 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 13:33:05.195 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 13:33:36.731 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 13:33:42.495 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 13:33:42.763 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 13:33:42.904 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 13:34:10.578 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 13:34:11.096 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 13:34:14.297 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 13:34:19.973 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 13:34:24.064 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 13:34:28.790 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 13:34:41.159 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 13:34:48.670 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 13:35:11.199 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 13:35:11.321 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 13:35:13.637 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 13:35:27.299 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 13:35:42.303 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 13:35:44.306 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 13:35:47.628 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 13:35:47.819 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 13:35:52.823 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered street address
+2020-06-23 13:35:53.223 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 13:35:53.410 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 13:35:53.626 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 13:35:53.765 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 14:49:00.426 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-23 14:49:28.969 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-23 14:49:39.885 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-23 14:49:47.132 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-23 14:49:47.408 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-23 14:49:47.553 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-23 14:50:13.208 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-23 14:50:14.061 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on Perfleek icon
+2020-06-23 14:50:17.513 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Destination in search box
+2020-06-23 14:50:22.426 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered start date
+2020-06-23 14:50:26.532 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered end date
+2020-06-23 14:50:27.675 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on search button
+2020-06-23 14:50:31.317 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listing ID
+2020-06-23 14:50:42.031 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on book now button
+2020-06-23 14:50:47.978 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 1
+2020-06-23 14:50:48.127 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User accepts Policy 2
+2020-06-23 14:50:50.395 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered message while making booking request
+2020-06-23 14:51:02.544 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card number
+2020-06-23 14:51:17.548 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card expiry date
+2020-06-23 14:51:19.554 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered credit card cvv
+2020-06-23 14:51:22.795 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered first Name
+2020-06-23 14:51:22.988 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Last Name
+2020-06-23 14:51:27.994 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered street address
+2020-06-23 14:51:28.463 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered city name
+2020-06-23 14:51:28.586 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered State
+2020-06-23 14:51:28.739 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered zipcode
+2020-06-23 14:51:28.849 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicked on listbookit
+2020-06-23 14:51:35.648 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Your Perfleek Vacation Rental is Officially Booked!
+2020-06-23 14:51:35.648 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Your Confirmation ID is:828750240

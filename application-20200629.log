@@ -1,0 +1,38 @@
+2020-06-29 20:08:40.279 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:09:13.039 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:09:42.337 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-29 20:09:49.646 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-29 20:09:49.952 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-29 20:09:50.077 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-29 20:10:10.935 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-29 20:10:54.219 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:11:46.323 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:12:26.134 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-29 20:12:34.120 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-29 20:12:34.535 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-29 20:12:35.119 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-29 20:12:45.974 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User has Successfully logged in to Perfleek.com
+2020-06-29 20:13:08.908 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:13:39.457 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:14:00.712 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-06-29 20:14:15.943 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Page is not loaded correctly or check locator of this field
+2020-06-29 20:14:25.999 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login Button is not present or clickable or check the locator for the button
+2020-06-29 20:14:44.017 [main] ERROR StepDefinition.StepdefinitionCommonSteps - Login ID and Password are incorrect
+2020-06-29 20:21:02.991 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:21:14.996 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:21:40.837 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-29 20:21:48.207 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-29 20:21:48.487 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-29 20:21:48.765 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-29 20:23:48.655 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:24:01.268 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:24:33.907 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-29 20:24:39.713 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-29 20:24:40.136 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-29 20:24:40.308 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button
+2020-06-29 20:27:34.699 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - Browser invoked
+2020-06-29 20:27:53.508 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - URL inserted succesfully
+2020-06-29 20:28:17.066 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on Sign in button
+2020-06-29 20:28:23.834 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered username
+2020-06-29 20:28:24.071 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User entered Password
+2020-06-29 20:28:24.404 [main] DEBUG StepDefinition.StepdefinitionCommonSteps - User clicks on login Button

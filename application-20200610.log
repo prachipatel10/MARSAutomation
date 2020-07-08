@@ -1,0 +1,32 @@
+2020-06-10 00:31:21.315 [main] DEBUG StepDefinition.Stepdefinition1 - Browser invoked
+2020-06-10 00:31:48.587 [main] DEBUG StepDefinition.Stepdefinition1 - URL inserted succesfully
+2020-06-10 00:32:06.305 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on Sign in button
+2020-06-10 00:32:19.750 [main] DEBUG StepDefinition.Stepdefinition1 - User entered username
+2020-06-10 00:32:19.965 [main] DEBUG StepDefinition.Stepdefinition1 - User entered Password
+2020-06-10 00:32:20.718 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on login Button
+2020-06-10 00:32:30.255 [main] DEBUG StepDefinition.Stepdefinition1 - User has Successfully logged in to Perfleek.com
+2020-06-10 00:32:31.086 [main] DEBUG StepDefinition.Stepdefinition1 - Browser closed
+2020-06-10 00:32:34.875 [main] DEBUG StepDefinition.Stepdefinition1 - Browser invoked
+2020-06-10 00:32:43.933 [main] DEBUG StepDefinition.Stepdefinition1 - URL inserted succesfully
+2020-06-10 00:32:54.958 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on Sign in button
+2020-06-10 00:33:00.585 [main] DEBUG StepDefinition.Stepdefinition1 - User entered username
+2020-06-10 00:33:00.775 [main] DEBUG StepDefinition.Stepdefinition1 - User entered Password
+2020-06-10 00:33:00.968 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on login Button
+2020-06-10 00:33:19.134 [main] ERROR StepDefinition.Stepdefinition1 - Login ID and Password are incorrect
+2020-06-10 00:33:19.546 [main] DEBUG StepDefinition.Stepdefinition1 - Browser closed
+2020-06-10 00:33:22.749 [main] DEBUG StepDefinition.Stepdefinition1 - Browser invoked
+2020-06-10 00:33:32.945 [main] DEBUG StepDefinition.Stepdefinition1 - URL inserted succesfully
+2020-06-10 00:33:55.398 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on Sign in button
+2020-06-10 00:34:01.018 [main] DEBUG StepDefinition.Stepdefinition1 - User entered username
+2020-06-10 00:34:01.262 [main] DEBUG StepDefinition.Stepdefinition1 - User entered Password
+2020-06-10 00:34:01.403 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on login Button
+2020-06-10 00:34:09.482 [main] DEBUG StepDefinition.Stepdefinition1 - User has Successfully logged in to Perfleek.com
+2020-06-10 00:34:09.618 [main] DEBUG StepDefinition.Stepdefinition1 - Browser closed
+2020-06-10 19:03:48.209 [main] DEBUG StepDefinition.Stepdefinition1 - Browser invoked
+2020-06-10 19:04:07.878 [main] DEBUG StepDefinition.Stepdefinition1 - URL inserted succesfully
+2020-06-10 19:04:58.591 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on Sign in button
+2020-06-10 19:05:04.667 [main] DEBUG StepDefinition.Stepdefinition1 - User entered username
+2020-06-10 19:05:04.948 [main] DEBUG StepDefinition.Stepdefinition1 - User entered Password
+2020-06-10 19:05:05.084 [main] DEBUG StepDefinition.Stepdefinition1 - User clicks on login Button
+2020-06-10 19:05:17.550 [main] DEBUG StepDefinition.Stepdefinition1 - User has Successfully logged in to Perfleek.com
+2020-06-10 19:05:27.024 [main] DEBUG StepDefinition.Stepdefinition1 - Browser closed
