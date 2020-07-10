@@ -18,7 +18,7 @@ import mars.ConvergesolAutomation.MarsBase;
 public class MarsHooks extends MarsBase{
 	public static Logger log = LogManager.getLogger(StepDefinition.class.getName());
 
-	@Before("@First")
+	@Before
 	public void setup()
 	{
 		try {
@@ -30,14 +30,14 @@ public class MarsHooks extends MarsBase{
 		}
 	}
 	
-	@After("@Third")
+	@After
 	public void TearDownTest()
 	{
-		/*try {
+		try {
 			sleep();
-			//driverclose();
+			driverclose();
 		} catch (IOException e) {
 			
-		}*/
+		}
 	}
 }

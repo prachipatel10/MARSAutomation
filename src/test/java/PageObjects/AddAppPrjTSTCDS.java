@@ -24,6 +24,10 @@ public class AddAppPrjTSTCDS {
 		 By prjopt=By.xpath("//*[@id=\"kt_header_menu\"]/ul/li[2]/a/span");
 		 By prjlist=By.xpath("//*[@id=\"kt_header_menu\"]/ul/li[2]/div/ul/li/a/span[2]");
 		 By addprj=By.xpath("//button[contains(text(),'New Project')]");
+		 By prjname=By.id("projectname");
+		 By prjdesc=By.id("projectdesc");
+		 By prjapp=By.xpath("//*[@id=\"select2-sDrpApplication-results\"]/li/ul");
+		 By prjappfield=By.xpath("//*[@id=\"frmproject\"]/div[3]/span/span[1]/span/ul/li/input");
 		 By app=By.xpath("//*[@id=\"select2-sDrpApplication-results\"]/li/ul");
 		 By loader=By.xpath("/html/body/div[2]");	
 		
@@ -52,10 +56,8 @@ public class AddAppPrjTSTCDS {
 		{
 			return driver.findElement(ver);
 		}
-		public WebElement requ()
-		{
-			return driver.findElement(req);
-		}
+		
+		
 		public WebElement extrareq()
 		{
 			return driver.findElement(requi);
@@ -87,5 +89,17 @@ public class AddAppPrjTSTCDS {
 		public WebElement addprjbtn()
 		{
 			return driver.findElement(addprj);
+		}
+		public WebElement prjname() {
+			return driver.findElement(prjname);
+		}
+		public WebElement prjdese() {
+			return driver.findElement(prjdesc);
+		}
+		public WebElement prjappfld() {
+			return driver.findElement(prjappfield);
+		}
+		public WebElement prjapplication() {
+			return driver.findElement(prjapp);
 		}
 }

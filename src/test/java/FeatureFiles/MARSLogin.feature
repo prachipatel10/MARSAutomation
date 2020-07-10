@@ -1,6 +1,6 @@
 Feature: MARS Login
 
-@First
+@Task1
 Scenario: Login with Credentials
 Given Launch the browser and enter the URL1
 When user enteres login ID1 "prachi" and Password1 "prachi@123" 

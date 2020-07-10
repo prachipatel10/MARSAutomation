@@ -1,51 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="50.172">
-<testcase classname="MARS Login" name="Login with Credentials" time="21.571">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="92.528">
+<testcase classname="MARS Login" name="Login with Credentials" time="36.525">
 <system-out><![CDATA[Given Launch the browser and enter the URL1.................................passed
 When user enteres login ID1 "prachi" and Password1 "prachi@123".............passed
 Then users click on login button1...........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="MARS Login" name="addapplication" time="14.046">
-<system-out><![CDATA[Given mouseover on application from menu....................................passed
-Then click on list option...................................................passed
-And click on add button.....................................................passed
-Then enter name description and version.....................................passed
-And click on save button....................................................passed
-And click on ok button......................................................passed
+<testcase classname="MARS Login" name="forget password" time="54.854">
+<system-out><![CDATA[Given browser is open.......................................................passed
+And click on forget password link...........................................passed
+Then enter "prachi.patel@convergesolution.com" email address................passed
+And click on request button.................................................passed
+Then open email login page..................................................passed
+When enter email address....................................................passed
+Then enter password.........................................................passed
+And click on signin button..................................................passed
+Then open email.............................................................passed
 ]]></system-out>
-</testcase>
-<testcase classname="MARS Login" name="addproject" time="13.507">
-<failure message="element not interactable&#10;  (Session info: chrome=83.0.4103.116)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'CS-DC-09', ip: '192.168.0.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_251'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\CS-DC-09\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: 7f2065ed8c914eab2a86dd8630ce5671" type="org.openqa.selenium.ElementNotInteractableException"><![CDATA[Given mouseover on project option...........................................passed
-Then click on list option of project........................................passed
-And click on add project button.............................................passed
-Then enter name description and select application..........................failed
-And click on save button....................................................skipped
-And click on ok button......................................................skipped
-
-StackTrace:
-org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=83.0.4103.116)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'CS-DC-09', ip: '192.168.0.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_251'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\CS-DC-09\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 7f2065ed8c914eab2a86dd8630ce5671
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
-	at mars.ConvergesolAutomation.MarsBase.Sendkey(MarsBase.java:60)
-	at StepDefinition.StepdefinitionAddAppPrjTSTCDS.enter_name_something_description_something_and_select_application(StepdefinitionAddAppPrjTSTCDS.java:75)
-	at ✽.enter name description and select application(file:///C:/ConvergesolAutomation/src/test/java/FeatureFiles/MARSLogin.feature:23)
-]]></failure>
 </testcase>
 </testsuite>

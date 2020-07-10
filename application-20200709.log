@@ -1,0 +1,67 @@
+2020-07-09 12:12:56.744 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 14:07:45.471 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 14:21:36.791 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 14:21:56.482 [main] DEBUG cucumber.runtime.StepDefinition - 2020-07-09T14:21:56.257+05:30
+2020-07-09 14:21:57.669 [main] DEBUG cucumber.runtime.StepDefinition - 2020-07-09T14:21:57.669+05:30
+2020-07-09 14:27:59.709 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 14:29:35.400 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 14:29:56.572 [main] DEBUG cucumber.runtime.StepDefinition - 2020-07-09T14:29:56.517+05:30
+2020-07-09 14:29:58.664 [main] DEBUG cucumber.runtime.StepDefinition - 2020-07-09T14:29:58.664+05:30
+2020-07-09 14:36:04.882 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:03:16.350 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:03:34.624 [main] DEBUG cucumber.runtime.StepDefinition - 15:03:34.623
+2020-07-09 15:03:35.636 [main] DEBUG cucumber.runtime.StepDefinition - 15:03:35.636
+2020-07-09 15:10:32.682 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:10:52.088 [main] DEBUG cucumber.runtime.StepDefinition - 15:10:52.086
+2020-07-09 15:10:53.404 [main] DEBUG cucumber.runtime.StepDefinition - 15:10:53.404
+2020-07-09 15:12:51.938 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:23:54.680 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:25:58.148 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:28:28.073 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:32:54.104 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:38:58.072 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 15:48:52.139 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:02:50.672 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:16:04.682 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:30:04.550 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:32:14.970 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:39:45.611 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:46:26.745 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:51:33.590 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 16:54:39.533 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:03:46.388 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:09:49.095 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:16:13.956 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:38:08.278 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:42:58.743 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 17:45:25.962 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 18:06:59.248 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 18:12:37.756 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 18:14:51.163 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 18:18:11.116 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 18:30:24.689 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:01:13.503 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:02:43.089 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:05:11.794 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:06:57.514 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:20:32.240 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:25:57.757 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:31:10.265 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:31:35.981 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:32:13.594 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:32:41.424 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:38:58.561 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:46:03.502 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:50:04.978 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:51:01.076 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:51:30.053 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:54:03.460 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:54:28.722 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:55:52.254 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:56:21.937 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:58:00.384 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:58:25.544 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 19:59:54.400 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 20:00:22.068 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 20:02:59.689 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-09 20:03:27.636 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully

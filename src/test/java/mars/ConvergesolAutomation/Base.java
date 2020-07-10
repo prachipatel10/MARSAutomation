@@ -53,6 +53,8 @@ public class Base {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
+	
+	
 
 	public static WebDriver CloseDriver() throws IOException {
 		driver.close();
