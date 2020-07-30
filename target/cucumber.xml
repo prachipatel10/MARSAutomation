@@ -1,21 +1,130 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="92.528">
-<testcase classname="MARS Login" name="Login with Credentials" time="36.525">
-<system-out><![CDATA[Given Launch the browser and enter the URL1.................................passed
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="212.942">
+<testcase classname="Mars TestSuite" name="Login with Credentials" time="211.691">
+<failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#testsuitename&quot;}&#10;  (Session info: chrome=84.0.4147.89)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'CS-DC-09', ip: '192.168.0.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_251'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.89, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\CS-DC-09\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62053}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: 4188835bad1c671ee839d1e1adfc0138&#10;*** Element info: {Using=id, value=testsuitename}" type="org.openqa.selenium.NoSuchElementException"><![CDATA[Given Launch the browser and enter the URL1.................................passed
 When user enteres login ID1 "prachi" and Password1 "prachi@123".............passed
 Then users click on login button1...........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="MARS Login" name="forget password" time="54.854">
-<system-out><![CDATA[Given browser is open.......................................................passed
-And click on forget password link...........................................passed
-Then enter "prachi.patel@convergesolution.com" email address................passed
-And click on request button.................................................passed
-Then open email login page..................................................passed
-When enter email address....................................................passed
-Then enter password.........................................................passed
-And click on signin button..................................................passed
-Then open email.............................................................passed
-]]></system-out>
+And mouseover on application from menu......................................passed
+Then click on list option...................................................passed
+And click on add button.....................................................passed
+Then enter name description version and select extra requirement............passed
+And click on save button....................................................passed
+And click on ok button......................................................passed
+And mouseover on project option.............................................passed
+Then click on list option of project........................................passed
+And click on add project button.............................................passed
+Then enter name description and select application..........................passed
+And click on save button of project.........................................passed
+And click on ok button......................................................passed
+Then mouseover on test suite option.........................................passed
+And click on list option of test suite......................................passed
+Then click on add new button of test suite..................................passed
+And enter name descript select application for test suite...................failed
+And select project..........................................................skipped
+Then click on save button of test suite.....................................skipped
+And click on ok button......................................................skipped
+Then mouseover on test case option..........................................skipped
+And click on list option of test case.......................................skipped
+Then click on add new button of test case...................................skipped
+And enter name descript select application..................................skipped
+And select test suite.......................................................skipped
+Then click on save button of test case......................................skipped
+And click on ok button......................................................skipped
+And click on setting icon...................................................skipped
+Then click on project display list option...................................skipped
+And click on checkbox.......................................................skipped
+Then click on save button of display project list...........................skipped
+And click on ok button......................................................skipped
+Then click on new added project.............................................skipped
+And rightclick on storyboard................................................undefined
+Then click on add storyboard................................................undefined
+And enter name and description..............................................undefined
+Then click on save button of add storyboard.................................undefined
+And click on ok button......................................................skipped
+Then click on new added project for saveAs TS...............................undefined
+Then click on Test Suite option.............................................undefined
+And click on any test suite which contain test cases........................undefined
+Then right click on test case...............................................undefined
+And click on save as test case option.......................................undefined
+Then remove name description and enter new name description.................undefined
+And click on save button of saveas option...................................undefined
+Then click on ok button.....................................................skipped
+And click on new added project for saveAs storyboard........................undefined
+Then click on storyboard option.............................................undefined
+And right click on storyboard...............................................undefined
+Then click on saveAs storyboard.............................................undefined
+And remove name description and enter name description......................undefined
+Then click on save button of storyboard.....................................undefined
+And click on ok button......................................................skipped
+And click on move testcase option...........................................undefined
+Then select testsuite from dropdown to move.................................undefined
+And click on save button of move............................................undefined
+Then click on ok button.....................................................skipped
+And mouseover on variable option............................................skipped
+Then click on list of variable option.......................................skipped
+And click on new variable button............................................skipped
+Then enter name value and select type.......................................skipped
+And click on save button of variable........................................skipped
+Then click on ok button.....................................................skipped
+And mouseover on keyword option.............................................skipped
+Then click on list of keyword option........................................skipped
+And click on new keyword button.............................................skipped
+Then enter name and select control type.....................................skipped
+And click on save button of keyword.........................................skipped
+Then click on ok button.....................................................skipped
+And mouseover on object option..............................................skipped
+Then click on list of object option.........................................skipped
+And click on insert pegwondow object button.................................undefined
+Then enter name select application enter internal access....................undefined
+And click on insert peg button of insert peg................................undefined
+Then click on ok button.....................................................skipped
+And click on new object button..............................................undefined
+Then enter name select object type select application select pegwindow and enter internal access.undefined
+And click on save button of object..........................................undefined
+Then click on ok button.....................................................skipped
+Then click on usename for signout...........................................skipped
+And click on signout option.................................................skipped
+And click on forget password link...........................................skipped
+Then enter "prachi.patel@convergesolution.com" email address................skipped
+And click on request button.................................................skipped
+Then open email login page..................................................skipped
+When enter email address....................................................skipped
+Then enter password.........................................................skipped
+And click on signin button..................................................skipped
+Then open email.............................................................skipped
+And click on reset password link............................................skipped
+Then enter password "prachi@123" and confirm password "prachi@123"..........skipped
+And click on reset button and click on ok button............................skipped
+Then user enters login ID2 "prachi" and Password2 "prachi@123"..............skipped
+And users click on login button2............................................skipped
+
+StackTrace:
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#testsuitename"}
+  (Session info: chrome=84.0.4147.89)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CS-DC-09', ip: '192.168.0.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.89, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\CS-DC-09\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62053}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4188835bad1c671ee839d1e1adfc0138
+*** Element info: {Using=id, value=testsuitename}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at PageObjects.AddAppPrjTSTCDS.entertestsuitename(AddAppPrjTSTCDS.java:149)
+	at StepDefinition.StepdefinitionAddAppPrjTSTCDS.enter_name_descript_select_application_and_select_project(StepdefinitionAddAppPrjTSTCDS.java:193)
+	at ✽.enter name descript select application for test suite(file:///C:/ConvergesolAutomation/src/test/java/FeatureFiles/MarsTestSuite.feature:23)
+]]></failure>
 </testcase>
 </testsuite>

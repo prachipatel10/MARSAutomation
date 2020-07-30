@@ -1,0 +1,126 @@
+2020-07-24 15:23:19.690 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 15:36:23.866 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 15:40:18.828 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 15_00_00
+2020-07-24 16:09:37.354 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 16:48:50.552 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 16:51:39.876 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 16:51:39.876 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 16:51:40.391 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 16_00_00
+2020-07-24 16:59:52.386 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 17:02:39.862 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 17:02:39.862 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 17:02:40.422 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 16_00_00
+2020-07-24 17:02:40.743 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 16_40_02
+2020-07-24 17:02:40.901 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 16_48_14
+2020-07-24 17:02:41.186 [main] DEBUG cucumber.runtime.StepDefinition - 24_07_2020 16_59_21
+2020-07-24 17:02:54.227 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 17:03:04.063 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 17:03:04.181 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 17:03:04.298 [main] ERROR cucumber.runtime.StepDefinition - not click on save as test caseoption
+2020-07-24 17:03:04.352 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 17:03:04.605 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of save as option
+2020-07-24 17:03:04.796 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 17:03:05.026 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 17:03:05.257 [main] ERROR cucumber.runtime.StepDefinition - not click on storyboard
+2020-07-24 17:03:05.359 [main] ERROR cucumber.runtime.StepDefinition - not right click on storyboard
+2020-07-24 17:03:05.508 [main] ERROR cucumber.runtime.StepDefinition - not click on saveAs storyboard
+2020-07-24 17:03:05.648 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 17:03:05.876 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of storyboard
+2020-07-24 17:03:05.994 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 17:03:06.010 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 17:03:06.023 [main] ERROR cucumber.runtime.StepDefinition - not click on tets suite option
+2020-07-24 17:03:06.032 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 17:03:06.050 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 17:03:06.085 [main] ERROR cucumber.runtime.StepDefinition - not click on move test case option
+2020-07-24 17:03:06.100 [main] ERROR cucumber.runtime.StepDefinition - not select test suite from dropdown to move
+2020-07-24 17:03:06.115 [main] ERROR cucumber.runtime.StepDefinition - not click on save button f move
+2020-07-24 17:03:06.139 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 17:03:06.149 [main] ERROR cucumber.runtime.StepDefinition - not mouseover on variable
+2020-07-24 17:03:06.167 [main] ERROR cucumber.runtime.StepDefinition - not click on list of variable
+2020-07-24 17:03:06.189 [main] ERROR cucumber.runtime.StepDefinition - not click on new button of variable
+2020-07-24 17:17:18.519 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 17:19:54.369 [main] DEBUG cucumber.runtime.StepDefinition - 52
+2020-07-24 17:19:54.369 [main] DEBUG cucumber.runtime.StepDefinition - 52
+2020-07-24 18:05:35.732 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 18:07:58.385 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 18:07:58.386 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 18:10:12.721 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 18:12:51.579 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 18:12:51.579 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 18:34:55.204 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 18:37:27.075 [main] DEBUG cucumber.runtime.StepDefinition - 52
+2020-07-24 18:37:27.075 [main] DEBUG cucumber.runtime.StepDefinition - 52
+2020-07-24 18:37:41.833 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 18:37:48.887 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 18:37:48.899 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 18:37:48.906 [main] ERROR cucumber.runtime.StepDefinition - not click on save as test caseoption
+2020-07-24 18:37:48.950 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 18:37:48.980 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of save as option
+2020-07-24 18:37:49.001 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 18:37:49.020 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 18:37:49.037 [main] ERROR cucumber.runtime.StepDefinition - not click on storyboard
+2020-07-24 18:37:49.064 [main] ERROR cucumber.runtime.StepDefinition - not right click on storyboard
+2020-07-24 18:37:49.072 [main] ERROR cucumber.runtime.StepDefinition - not click on saveAs storyboard
+2020-07-24 18:37:49.080 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 18:37:49.097 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of storyboard
+2020-07-24 18:37:49.105 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 18:37:49.114 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 18:37:49.121 [main] ERROR cucumber.runtime.StepDefinition - not click on tets suite option
+2020-07-24 18:37:49.141 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 18:37:49.160 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 18:37:49.169 [main] ERROR cucumber.runtime.StepDefinition - not click on move test case option
+2020-07-24 18:37:49.196 [main] ERROR cucumber.runtime.StepDefinition - not select test suite from dropdown to move
+2020-07-24 18:37:49.218 [main] ERROR cucumber.runtime.StepDefinition - not click on save button f move
+2020-07-24 18:37:49.229 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 18:37:49.494 [main] ERROR cucumber.runtime.StepDefinition - not mouseover on variable
+2020-07-24 18:37:49.763 [main] ERROR cucumber.runtime.StepDefinition - not click on list of variable
+2020-07-24 18:37:49.913 [main] ERROR cucumber.runtime.StepDefinition - not click on new button of variable
+2020-07-24 18:41:43.393 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 18:43:54.370 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 18:43:54.370 [main] DEBUG cucumber.runtime.StepDefinition - 56
+2020-07-24 19:02:35.067 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 19:04:57.121 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 19:04:57.121 [main] DEBUG cucumber.runtime.StepDefinition - 60
+2020-07-24 19:05:13.199 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 19:05:28.175 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 19:05:38.779 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 19:05:43.174 [main] ERROR cucumber.runtime.StepDefinition - not click on save as test caseoption
+2020-07-24 19:05:47.620 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 19:05:51.732 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of save as option
+2020-07-24 19:05:55.906 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 19:05:59.965 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 19:06:04.087 [main] ERROR cucumber.runtime.StepDefinition - not click on storyboard
+2020-07-24 19:06:08.135 [main] ERROR cucumber.runtime.StepDefinition - not right click on storyboard
+2020-07-24 19:06:12.221 [main] ERROR cucumber.runtime.StepDefinition - not click on saveAs storyboard
+2020-07-24 19:06:17.066 [main] ERROR cucumber.runtime.StepDefinition - not remove name description or enter name description
+2020-07-24 19:06:21.145 [main] ERROR cucumber.runtime.StepDefinition - not click on save button of storyboard
+2020-07-24 19:06:25.235 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 19:06:29.397 [main] ERROR cucumber.runtime.StepDefinition - not click on first project
+2020-07-24 19:06:33.477 [main] ERROR cucumber.runtime.StepDefinition - not click on tets suite option
+2020-07-24 19:06:37.664 [main] ERROR cucumber.runtime.StepDefinition - not click on test suite which contain test cases
+2020-07-24 19:06:41.825 [main] ERROR cucumber.runtime.StepDefinition - not right click on test case
+2020-07-24 19:06:45.843 [main] ERROR cucumber.runtime.StepDefinition - not click on move test case option
+2020-07-24 19:06:49.956 [main] ERROR cucumber.runtime.StepDefinition - not select test suite from dropdown to move
+2020-07-24 19:06:54.034 [main] ERROR cucumber.runtime.StepDefinition - not click on save button f move
+2020-07-24 19:06:58.169 [main] ERROR cucumber.runtime.StepDefinition - not click on ok button of add application
+2020-07-24 19:07:02.466 [main] ERROR cucumber.runtime.StepDefinition - not mouseover on variable
+2020-07-24 19:07:06.531 [main] ERROR cucumber.runtime.StepDefinition - not click on list of variable
+2020-07-24 19:07:10.689 [main] ERROR cucumber.runtime.StepDefinition - not click on new button of variable
+2020-07-24 19:30:42.382 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 19:33:05.887 [main] DEBUG cucumber.runtime.StepDefinition - 64
+2020-07-24 19:33:05.888 [main] DEBUG cucumber.runtime.StepDefinition - 64
+2020-07-24 19:39:05.002 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 19:42:07.940 [main] DEBUG cucumber.runtime.StepDefinition - 68
+2020-07-24 19:42:07.940 [main] DEBUG cucumber.runtime.StepDefinition - 68
+2020-07-24 20:05:50.739 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 20:08:10.189 [main] DEBUG cucumber.runtime.StepDefinition - 72
+2020-07-24 20:08:10.189 [main] DEBUG cucumber.runtime.StepDefinition - 72
+2020-07-24 20:11:44.409 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 20:15:20.740 [main] DEBUG cucumber.runtime.StepDefinition - 76
+2020-07-24 20:15:20.740 [main] DEBUG cucumber.runtime.StepDefinition - 76
+2020-07-24 20:21:20.417 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 20:24:14.724 [main] DEBUG cucumber.runtime.StepDefinition - 80
+2020-07-24 20:24:14.725 [main] DEBUG cucumber.runtime.StepDefinition - 80
+2020-07-24 20:26:42.333 [main] DEBUG cucumber.runtime.StepDefinition - open browser successfully
+2020-07-24 20:29:32.622 [main] DEBUG cucumber.runtime.StepDefinition - 84
+2020-07-24 20:29:32.622 [main] DEBUG cucumber.runtime.StepDefinition - 84

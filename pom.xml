@@ -236,7 +236,7 @@
 							<goal>generate</goal>
 						</goals>
 						<configuration>
-							<projectName>Perfleek Automation Test Reports</projectName>
+							<projectName>Mars Automation Test Reports</projectName>
 							<outputDirectory>${project.build.directory}/cucumber-JVM-reports</outputDirectory>
 							<cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
 							<checkBuildResult>true</checkBuildResult>

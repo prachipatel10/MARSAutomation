@@ -6,9 +6,9 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/java/FeatureFiles/LoginForgetpasswordlogin.feature", glue = "StepDefinition", plugin = { "pretty",
+@CucumberOptions(features = "src/test/java/FeatureFiles", glue = "StepDefinition", plugin = { "pretty",
 		"html:target/cucumber-html-report", "json:target/cucumber.json", "junit:target/cucumber.xml",
-		"rerun:target/rerun.txt" }, monochrome = true)
+		"rerun:target/rerun.txt" }, monochrome = true, tags = "@TestSuite")
 
 public class TestMarsRunner {
 	

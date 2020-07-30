@@ -1,8 +1,5 @@
 package PageObjects;
 
-import java.awt.List;
-import java.util.ArrayList;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -20,7 +17,13 @@ public class Loginforgetpasswordlogin {
 	By roundcubewebmail=By.id("rcmloginuser");
 	By roundcubewebpwd=By.id("rcmloginpwd");
 	By roundcubelogin=By.id("rcmloginsubmit");
-	By openemail=By.xpath("//*[@id=\"messagelist\"]/tbody/tr[1]/td[2]/a"); 	
+	By openemail=By.xpath("//*[@id=\"messagelist\"]/tbody/tr[1]/td[2]/a"); 
+	By resetpwd=By.xpath("//*[@id=\"message-htmlpart1\"]/div/table/tbody/tr/td/table/tbody/tr[5]/td/span/a"); 	
+	By pwd=By.id("Password");
+	By confirmpwd=By.xpath("//*[@id=\"cpassword\"]");
+	By resetbutton=By.xpath("//*[@id=\"btnreset\"]");
+	By okbuttonofresetpassword=By.xpath("/html/body/div[2]/div/div[3]/button[1]");
+	By checkelement=By.id("dropdownbox");
 	
 	public WebElement link() {
 		return driver.findElement(forgetlink);
@@ -54,9 +57,29 @@ public class Loginforgetpasswordlogin {
 		return driver.findElement(openemail);
 	}
 	
-	/*public WebElement resetlink() {
-		return driver.findElement(link);
-	}*/
+	public WebElement resetlink() {
+		return driver.findElement(resetpwd);
+	}
+	
+	public WebElement rpassword() {
+		return driver.findElement(pwd);
+	}
+	
+	public WebElement cnfpassword() {
+		return driver.findElement(confirmpwd);
+	}
+	
+	public WebElement resetbtn() {
+		return driver.findElement(resetbutton);
+	}
+	
+	public WebElement okbrn() {
+		return driver.findElement(okbuttonofresetpassword);
+	}
+	
+	public WebElement check() {
+		return driver.findElement(checkelement);
+	}
 
 	
 }
