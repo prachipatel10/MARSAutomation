@@ -6,11 +6,11 @@ import org.junit.runner.RunWith;
 import org.openqa.selenium.By;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import PageObjects.AddVariablekeywordobject;
 import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.junit.Cucumber;
 import mars.ConvergesolAutomation.MarsBase;
@@ -95,13 +95,16 @@ public class StepdefinitionAddVarkeywobj extends MarsBase {
 
      @And("^click on new keyword button$")
      public void click_on_new_keyword_button() throws Throwable {
-    	
-    		 click(Varkeywobj.clickonnewkeyword());
+    	//Thread.sleep(5000);
+    	 
+    WebDriverWait wait= new WebDriverWait(driver,10);
+    wait.until(ExpectedConditions.elementToBeClickable(Varkeywobj.clickonnewkeyword()));
+    		click(Varkeywobj.clickonnewkeyword());
     	
          
      }
      
-     @Then("^enter name and select control type$")
+    /* @Then("^enter name and select control type$")
      public void enter_name_and_select_control_type() throws Throwable {
     	 try {
          Sendkey(Varkeywobj.enternameofkeyword(), value);
@@ -229,7 +232,7 @@ public class StepdefinitionAddVarkeywobj extends MarsBase {
 		}
      }*/
      
-     @Then("^click on usename for signout$")
+    /* @Then("^click on usename for signout$")
      public void click_on_usename_for_signout() throws Throwable {
          click(Varkeywobj.clickonusername());
      }
@@ -237,5 +240,5 @@ public class StepdefinitionAddVarkeywobj extends MarsBase {
      @And("^click on signout option$")
      public void click_on_signout_option() throws Throwable {
          click(Varkeywobj.clickonsignout());
-     }
+     } */
 }

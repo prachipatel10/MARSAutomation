@@ -32,18 +32,17 @@ public class StepdefinitionSaveAsMove extends MarsBase {
 		int count = tablelist.size();
 		log.debug(count);
 	for (int i = 1; i < count; i++) {
-			//WebElement project = table.findElement(By.xpath("//body[@class='kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid kt-aside--enabled kt-aside--fixed']/div[@id='mainbody']/div[@class='kt-grid__item kt-grid__item--fluid kt-grid kt-grid--ver kt-page']/div[@id='kt_aside']/div[@id='kt_aside_menu_wrapper']/div[@id='kt_aside_menu']/ul[@id='leftProjectList']/li["+ i + "]/a[1]"));
+			WebElement project = table.findElement(By.xpath("//body[@class='kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid kt-aside--enabled kt-aside--fixed']/div[@id='mainbody']/div[@class='kt-grid__item kt-grid__item--fluid kt-grid kt-grid--ver kt-page']/div[@id='kt_aside']/div[@id='kt_aside_menu_wrapper']/div[@id='kt_aside_menu']/ul[@id='leftProjectList']/li["+ i + "]/a[1]"));
 			// *[@id="lProjectName"]/div/ul/li[2]/a/span[2]
-			WebElement project1=table.findElement(By.xpath("//ul[@id='leftProjectList')/li["+i+"]/span[1]"));
-			String prjvalue1=project1.getText();
-			//String prjvalue = table.findElement(By.xpath(
-				//	"//body[@class='kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid kt-aside--enabled kt-aside--fixed']/div[@id='mainbody']/div[@class='kt-grid__item kt-grid__item--fluid kt-grid kt-grid--ver kt-page']/div[@id='kt_aside']/div[@id='kt_aside_menu_wrapper']/div[@id='kt_aside_menu']/ul[@id='leftProjectList']/li["+ i + "]/a[1]/span[2]")).getText();
-			//og.debug(prjvalue);
-			log.debug(prjvalue1);
+			//WebElement project1=table.findElement(By.xpath("//ul[@id='leftProjectList')/li["+i+"]/span[1]"));
+			//String prjvalue1=project1.getText();
+			String prjvalue =project.getText();
+			log.debug(prjvalue);
+			//log.debug(prjvalue1);
 			//WebElement w=driver.findElement(By.xpath("//body[@class='kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid kt-aside--enabled kt-aside--fixed']/div[@id='mainbody']/div[@class='kt-grid__item kt-grid__item--fluid kt-grid kt-grid--ver kt-page']/div[@id='kt_aside']/div[@id='kt_aside_menu_wrapper']/div[@id='kt_aside_menu']/ul[@id='leftProjectList']/li[1]/a[1]"));
 			//click(w);
 
-			/*if (prjvalue.equals("19-06")) {
+			if (prjvalue.equals(value)) {
 
 				Thread.sleep(2000);
 				// checkbox.click();
@@ -54,11 +53,12 @@ public class StepdefinitionSaveAsMove extends MarsBase {
 
 				break;
 			} else {
-			}*/
+			}
 		}
+	}
 
 
-/*	@And("^rightclick on storyboard$")
+	@And("^rightclick on storyboard$")
 	public void rightclick_on_storyboard() throws Throwable {
 	}
 
@@ -292,7 +292,8 @@ public class StepdefinitionSaveAsMove extends MarsBase {
 		} catch (Exception e) {
 			log.error("not click on save button f move");
 		}
-	}*/
-
+	}
+	
 }
+
 
